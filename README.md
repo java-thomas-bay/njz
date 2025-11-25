@@ -30,8 +30,4 @@ O sistema inclui funcionalidades completas de cadastro, gerenciamento de usuári
 
 - Atualização de quantidades e remoção de itens do carrinho.
 
-- Resumo da compra antes da finalização.
-
-Finalização da compra selecionando endereço e método de pagamento.
-
-Registro do histórico de pedidos do usuário.
+- Registro do histórico de pedidos do usuário.
