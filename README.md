@@ -1,11 +1,11 @@
 # newjeans🐇
 
-# 🐇 NewJeans Merch Store
+## 🐇 NewJeans Merch Store
 
 Este projeto é um **site de venda de merchs oficiais do grupo NewJeans**, desenvolvido como uma plataforma simples e intuitiva para que fãs possam navegar, escolher seus produtos favoritos e realizar compras com facilidade.
 O sistema inclui funcionalidades completas de cadastro, gerenciamento de usuários, endereços e fluxo de compra.
 
-# ✨ Funcionalidades   
+## ✨ Funcionalidades   
 👤 Cadastro e Gerenciamento de Usuário
 
 - Criação de conta com informações básicas (nome, email, senha).
