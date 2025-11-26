@@ -31,3 +31,7 @@ O sistema inclui funcionalidades completas de cadastro, gerenciamento de usuári
 - Atualização de quantidades e remoção de itens do carrinho.
 
 - Registro do histórico de pedidos do usuário.
+
+## 👾 Nome do desenvolvedor
+
+- **Thomas Bayão Mathias**
