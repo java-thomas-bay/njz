@@ -65,11 +65,9 @@ Plataforma utilizada para hospedar e executar o backend do projeto. Com o Render
 
 ## 📎 Links
 
-**Swagger:**  
-- 
+- **Swagger:** 
 
-**Documentação:**
-- 
+- **Documentação:**
 
 ## 👾 Nome do desenvolvedor
 
