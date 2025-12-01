@@ -1,4 +1,4 @@
-# newjeans🐇
+# newjeans
 
 ## 🐇 NewJeans Merch Store
 
