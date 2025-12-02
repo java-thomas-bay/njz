@@ -65,7 +65,7 @@ Plataforma utilizada para hospedar e executar o backend do projeto. Com o Render
 
 ## 📎 Links
 
-- Swagger:
+- Swagger: https://pethan-cs3e.onrender.com/pethan/swagger-ui/index.html
 
 - Documentação: https://docs.google.com/document/d/1TQ8iMxbYWS9542FruVjU7PS7xMjuIZlrothnk2GErow/edit?tab=t.0
 
